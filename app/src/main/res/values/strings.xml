@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabWork4</string>
+    <string name="name">Метод половинного ділення</string>
+    <string name="task">Введіть проміжок для пошуку коренів: </string>
+    <string name="task3">Введіть рівняння: </string>
+    <string name="task2">Введіть ɛ:</string>
+    <string name="myVariant">2 ^ ( x ) - 4 * x </string>
+    <string name="solve">Розв\'язати</string>
+
+    <string name="equals"> = 0</string>
+</resources>
